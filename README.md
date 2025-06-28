@@ -47,3 +47,11 @@ Currently exploring: Django REST Framework, API testing, Unit Testing, CI/CD pip
 	•	Build and deploy production-grade backend systems
 	•	Learn CI/CD workflows and testing best practices
 	•	Continue contributing to impactful tech communities
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=steveTawali&show_icons=true&theme=tokyonight" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=steveTawali&theme=tokyonight" />
+</p>
