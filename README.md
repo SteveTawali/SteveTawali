@@ -41,11 +41,6 @@ Frameworks: Django, Flask
 Tools: Git & GitHub,Docker, Postman, PythonAnywhere
 Currently exploring: Django REST Framework, API testing, Unit Testing, CI/CD pipelines
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=steveTawali&show_icons=true&theme=tokyonight" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=steveTawali&theme=tokyonight" />
-</p>
 
 🌱 Learning Goals
 	•	Advance my API testing and debugging skills
