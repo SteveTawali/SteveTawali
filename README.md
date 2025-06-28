@@ -40,6 +40,14 @@ Frameworks: Django, Flask
 Tools: Git & GitHub,Docker, Postman, PythonAnywhere
 Currently exploring: Django REST Framework, API testing, Unit Testing, CI/CD pipelines
 
+### 📌 Featured Projects
+
+- 🔗 [Movie Review API](https://github.com/SteveTawali/Movie-Api-Review1)  
+  A Django REST API for movie reviews. Includes authentication, CRUD, and is deployed on PythonAnywhere.
+
+- 🔧 Testing Practice (coming soon)  
+  A backend testing project using `unittest` and `pytest` to demonstrate test-driven thinking.
+  
 
 🌱 Learning Goals
 	•	Advance my API testing and debugging skills
