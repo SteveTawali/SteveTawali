@@ -35,7 +35,6 @@ The potential to build reliable tools that help solve everyday problems. I'm esp
 
 ### 💼 Tech Stack
 
-```bash
 Languages: Python, Bash, SQL
 Frameworks: Django, Flask
 Tools: Git & GitHub,Docker, Postman, PythonAnywhere
@@ -47,7 +46,6 @@ Currently exploring: Django REST Framework, API testing, Unit Testing, CI/CD pip
 	•	Build and deploy production-grade backend systems
 	•	Learn CI/CD workflows and testing best practices
 	•	Continue contributing to impactful tech communities
-
 ### 📈 GitHub Stats
 
 <p align="center">
