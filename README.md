@@ -1,63 +1,69 @@
-<h1 align="center">Hi 👋, I'm Steven Gulu</h1>
-<h3 align="center">Backend Developer in Training | ALX ProDev Backend Learner | QA-Focused | API Enthusiast</h3>
+# Hi 👋, I'm Steven Gulu
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=steveTawali&label=Profile%20views&color=0e75b6&style=flat" alt="steveTawali" />
-</p>
+### Backend Developer | ALX ProDev Backend Graduate | QA-Focused | API Enthusiast
 
 ---
 
 ### 👨‍💻 About Me
 
-I'm currently enrolled in the **ALX ProDev Backend program**, where I'm learning to build robust backend systems, APIs, and automation workflows.  
+I'm a **backend developer** who recently completed the **ALX ProDev Backend program**. Now I'm expanding my skills into **frontend development** to become a full-stack developer.
 
 💭 **Why I started this journey**  
-To become a developer and improve my future. I’m passionate about backend systems and software quality, and I’m using this journey to transition into a **QA-focused backend role**.
+To become a developer and improve my future. I'm passionate about backend systems and software quality, with a focus on **QA and backend development**.
 
 🚀 **What inspires me**  
 The potential to build reliable tools that help solve everyday problems. I'm especially drawn to the structure and logic behind well-designed APIs.
 
-🎯 **My Goals**  
-- ✅ Land a remote backend or QA role  
-- ✅ Start a small tech business focused on practical solutions  
-- ✅ Build clean, testable, and scalable software for impact
+🎯 **My Goals**
+
+* ✅ Land a remote backend or QA role
+* ✅ Build full-stack applications
+* ✅ Create clean, testable, and scalable software
 
 ---
 
 ### 🧠 What I Enjoy Building
 
-- RESTful APIs for real-world applications  
-- Automation and testing tools  
-- Backend systems with strong data flow and structure  
-- Code that supports performance, testing, and deployment
+* RESTful APIs for real-world applications
+* Automation and testing tools
+* Backend systems with strong data flow and structure
+* Code that supports performance, testing, and deployment
 
 ---
 
 ### 💼 Tech Stack
 
-Languages: Python, Bash, SQL
-Frameworks: Django, Flask
-Tools: Git & GitHub,Docker, Postman, PythonAnywhere
-Currently exploring: Django REST Framework, API testing, Unit Testing, CI/CD pipelines
+**Backend:** Python, Django, Flask, SQL ✅  
+**Frontend:** Currently Learning HTML, CSS, JavaScript  
+**Tools:** Git, Postman, PythonAnywhere  
+**Testing:** unittest, pytest
 
 ### 📌 Featured Projects
 
-- 🔗 [Movie Review API](https://github.com/SteveTawali/Movie-Api-Review1)  
-  A Django REST API for movie reviews. Includes authentication, CRUD, and is deployed on PythonAnywhere.
+* 🔗 **Movie Review API**  
+A Django REST API for movie reviews. Includes authentication, CRUD, and is deployed on PythonAnywhere.
 
-- 🔧 Testing Practice (coming soon)  
-  A backend testing project using `unittest` and `pytest` to demonstrate test-driven thinking.
-  
+* 🌐 **Frontend Projects** *(coming soon)*  
+Learning frontend to complement my backend skills.
 
-🌱 Learning Goals
-	•	Advance my API testing and debugging skills
-	•	Build and deploy production-grade backend systems
-	•	Learn CI/CD workflows and testing best practices
-	•	Continue contributing to impactful tech communities
+### 🌱 Currently Learning
+
+* **Frontend Development** - HTML, CSS, JavaScript
+* **Full-Stack Integration** - Connecting frontend to backend APIs
+* **Advanced Testing** - Improving test coverage and practices
+
+🌱 **Next Steps**
+• Master frontend development to become full-stack
+• Build complete web applications with frontend + backend
+• Continue contributing to impactful tech projects
+• Apply backend expertise to real-world applications
+
+### 📫 Let's Connect
+
+* 🔗 [LinkedIn](https://linkedin.com/in/steven-gulu)
+* 🐦 [Twitter](https://twitter.com/Tawali_K)
+* 💼 Open to backend/QA opportunities and collaborations
+
 ### 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=steveTawali&show_icons=true&theme=tokyonight" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=steveTawali&theme=tokyonight" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SteveTawali&show_icons=true&theme=default)
